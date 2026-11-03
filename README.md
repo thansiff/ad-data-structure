@@ -1,2 +1,0 @@
-# ad-data-science
-program
